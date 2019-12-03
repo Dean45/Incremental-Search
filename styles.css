@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+#search {
+    width: 250px;
+}
+
+input {
+    width: 100%;
+    border: 1px solid black;
+    padding: 0 5px;
+    line-height: 2rem;
+}
+
+.highlight {
+    color: white;
+    background-color: gray;
+}
+
+.empty {
+    color: gray;
+}
